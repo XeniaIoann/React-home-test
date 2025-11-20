@@ -1,6 +1,6 @@
 ## Start
 cd my-app\
-npm install\
+npm install
 
 ## Run the app
 npm run dev
