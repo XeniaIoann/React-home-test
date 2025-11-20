@@ -1,5 +1,5 @@
 ## Start
-cd my-app\
+cd React-home-test-main\
 npm install
 
 ## Run the app
